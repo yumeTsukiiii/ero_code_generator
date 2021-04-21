@@ -1,9 +1,5 @@
 import 'dart:convert';
 
-class Awesome {
-  bool get isAwesome => true;
-}
-
 List<String> _eroCodes = ['嗯', '~', '啊', '❤'];
 
 /// Generate a H text
